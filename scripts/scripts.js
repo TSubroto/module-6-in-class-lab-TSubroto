@@ -2,7 +2,7 @@
     JavaScript Basics Tutorial
 */
 
-let textValue = "Hello World";
+let testValue = "Hello World";
 const headingElement = document.querySelector('h1');
 headingElement.textconstant = testValue;
 
