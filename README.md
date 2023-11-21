@@ -9,3 +9,4 @@
 - Ethan Lotz
 - Meg Prescott
 - Eric Nguyen
+- Bren Giles
