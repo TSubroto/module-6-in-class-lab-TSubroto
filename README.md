@@ -8,3 +8,4 @@
 - Timothy Subroto
 - Ethan Lotz
 - Meg Prescott
+- Eric Nguyen
