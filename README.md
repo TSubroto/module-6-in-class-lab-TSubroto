@@ -6,3 +6,4 @@
 ## Collaborators: ##
 
 - Timothy Subroto
+- Ethan Lotz
